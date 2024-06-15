@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "type": "testruns",
+            "attributes": {
+                "finishedOn": "2024-06-03T10:15:30Z",
+                "groupId": "",
+                "homePageContent": {
+                    "type": "text/html",
+                    "value": "Loop 098"
+                },
+                "id": "Loop098",
+                "idPrefix": "",
+                "isTemplate": false,
+                "keepInHistory": false,
+                "query": "Query",
+                "selectTestCasesBy": "manualSelection",
+                "status": "open",
+                "title": "Loop089",
+                "type": "Automatic",
+                "useReportFromTemplate": true
+            },
+            "relationships": {
+                "template": {
+                    "data": {
+                        "id": "RosG_TestProject/System Test Template",
+                        "type": "testruns"
+                    }
+                }
+            }
+
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "type": "testrecords",
+            "attributes": {
+                "comment": {
+                    "type": "text/html",
+                    "value": "Test case procedure"
+                },
+                "duration": 5,
+                "executed": "2024-05-24T00:00:00Z",
+                "result": "failed",
+                "testCaseRevision": ""
+            },
+            "relationships": {
+                "testCase": {
+                    "data": {
+                        "id": "RosG_TestProject/RGTP-647",
+                        "type": "workitems"
+                    }
+                }
+            }
+        }
+    ]
+}
